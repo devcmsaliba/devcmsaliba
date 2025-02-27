@@ -4,7 +4,7 @@
 
 I'm passionate about technology and always eager to learn and improve my skills. Currently, I'm exploring different areas of IT, including **Quality Assurance, Development, Data Analysis, Cloud Computing, and Big Data**.  
 
-📍 Based in Brazil 🇧🇷  
+📍 Based in Brazil 
 
 ---
 
