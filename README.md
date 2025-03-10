@@ -13,7 +13,7 @@ I'm passionate about technology and always eager to learn and improve my skills.
 - 🌱 Currently working with: **Python, C, SQL, Power BI, Machine Learning, ETL, Cloud Computing (AWS, Azure, Google Cloud)**  
 - 🎯 Interested in: **QA, Software Development, Data Science, and IT Support**  
 - 📊 Experienced with: **Google Colab, Google Data Studio, Dashboard Development, Big Data, GitHub, Kaggle**  
-- 📩 Feel free to connect with me on:  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cmsaliba/)  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/devcmsaliba) [![Kaggle](https://img.shields.io/badge/Kaggle-%23020C1B.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/cinthiamarcucisaliba)  
+- 📩 Feel free to connect with me on:  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cmsaliba/)  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/devcmsaliba) [![Kaggle](https://img.shields.io/badge/Kaggle-%23020C1B.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/cinthiamarcucisaliba)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cinthiamsaliba/)
 
 ---
 
