@@ -2,7 +2,7 @@
 
 🎯 **Aspiring IT Professional | Quality Assurance | Data Analysis | Cloud Computing Enthusiast**  
 
-I'm passionate about technology and always eager to learn and improve my skills. Currently, I'm exploring different areas of IT, including **Quality Assurance, Development, Data Analysis, Cloud Computing, and Big Data**.  
+With over a decade of experience in Global Mobility, I’ve always been drawn to technology — whether through automating workflows or diving into data to solve problems. Now, after dedicated studies and hands-on practice, I’m ready to officially transition into the tech industry, combining my past expertise with a solid foundation in data analysis, QA, and cloud solutions. 
 
 📍 Based in Brazil 
 
@@ -47,3 +47,5 @@ A project focused on cloud computing with AWS, covering services like EC2, S3, a
 An exploratory data analysis (EDA) project that examines COVID-19 data, trends, and visualizations using Python, Pandas, and Matplotlib.  
 
 ---
+
+📄 [My Resume (PDF)](https://docs.google.com/document/d/12e7RMLE4iUrv1BV0m8hmdM248K4HIkuX1tx3DrotM6s/edit?usp=sharing)
